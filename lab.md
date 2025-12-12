@@ -40,7 +40,7 @@ Other:
 
 Алгоритм додавання поста
 
-function addPost(text):
+    function addPost(text):
     if text is empty:
         return "Error: Post cannot be empty"
 
